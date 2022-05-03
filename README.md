@@ -1,7 +1,13 @@
-# algorithm
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bobo0)](https://solved.ac/bobo0)
+# Algorithm
+Problems I solved
 
-## Solved Problems
+## Solved Problems from Baekjoon
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bobo0)](https://solved.ac/bobo0)
 - Gold
-- [Silver](/silver)
-- [Bronze](/bronze)
+- [Silver](/baekjoon/silver)
+- [Bronze](/baekjoon/bronze)
+
+## Solved Problems from Programmers
+- [Lv.3](/programmers/lv3)
+- [Lv.2](/programmers/lv2)
+- [Lv.1](/programmers/lv1)
