@@ -3,11 +3,12 @@ Problems I solved
 
 ## Solved Problems from Baekjoon
 - Gold
-- [Silver](/baekjoon/silver)
-- [Bronze](/baekjoon/bronze)
+- [Silver](/silver)
+- [Bronze](/bronze)
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bobo0)](https://solved.ac/bobo0)
 
 ## Solved Problems from Programmers
-- [Lv.3](/programmers/lv3)
-- [Lv.2](/programmers/lv2)
-- [Lv.1](/programmers/lv1)
+- [Lv.3](/lv3)
+- [Lv.2](/lv2)
+- [Lv.1](/lv1)
